@@ -1,7 +1,7 @@
 # Hello, I'm JAMES GITAU
 <a href="https://www.linkedin.com/in/james-gitau-gathoni/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-#About Me
+## About Me
 
 As someone deeply passionate about cybersecurity and digital forensics, I, James Gitau, strive to personify excellence in these fields. Armed with a Bachelor of Science in Computer Security and Forensics, I have dedicated myself to mastering the art of safeguarding digital systems and conducting thorough investigations into cyber incidents. My expertise encompasses a comprehensive understanding of threat landscapes and forensic methodologies, enabling me to identify vulnerabilities, mitigate risks, and recover critical digital assets with precision. I am committed to continuously enhancing my knowledge and skills to keep pace with the ever-evolving landscape of cybersecurity technologies and methodologies. With a proven track record of excellence, I am ready to bring my expertise to any organization seeking to bolster its cyber defenses and navigate the complexities of digital forensics with confidence.
 
