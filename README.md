@@ -8,8 +8,7 @@ As someone deeply passionate about cybersecurity and digital forensics, I, James
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+My journey in computer security and forensics has cultivated a deep passion for cybersecurity within me. Through my coursework and experiences, I've gained a comprehensive understanding of digital threats and the importance of securing systems and data. Now, I am enthusiastic about transitioning into the cybersecurity field, with a particular focus on joining a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to apply my specialized knowledge and skills to effectively monitor, analyze, and respond to security incidents, contributing to the protection of organizations against cyber threats
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
