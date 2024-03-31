@@ -13,12 +13,12 @@ My passion for cybersecurity stems from my background in computer security and f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ACTIVE DIRECTORY         | <a href="https://google.com">Detection Lab</a>|
+| ACTIVE DIRECTORY PENETRATION TEST       | <a href="https://google.com">Detection Lab</a>|
 | SIEM | <a href="https://google.com">Detection Lab</a>|
-|         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| WEB PENETRATION TESTING       | |
+| CYBER CRIME INVESTIGATION    | |
+|                   | |
+| | |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
