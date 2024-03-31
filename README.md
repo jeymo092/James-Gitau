@@ -7,7 +7,7 @@ As someone deeply passionate about cybersecurity and digital forensics, I, James
 
 ## Objective
 
-My journey in computer security and forensics has cultivated a deep passion for cybersecurity within me. Through my coursework and experiences, I've gained a comprehensive understanding of digital threats and the importance of securing systems and data. Now, I am enthusiastic about transitioning into the cybersecurity field, with a particular focus on joining a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to apply my specialized knowledge and skills to effectively monitor, analyze, and respond to security incidents, contributing to the protection of organizations against cyber threats
+My passion for cybersecurity stems from my background in computer security and forensics. Now, I'm eager to specialize in Penetration Testing and Ethical Hacking. I aim to use my expertise to identify vulnerabilities and enhance organizational security. Through proactive assessments and simulated attacks, I'll provide valuable insights to mitigate risks and fortify defenses against cyber threats, ensuring organizations can safeguard their digital assets with confidence.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
