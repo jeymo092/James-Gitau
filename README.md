@@ -39,8 +39,7 @@ My passion for cybersecurity stems from my background in computer security and f
 
 ## **Education**
 
-### **Bachelor's Degree in Computer Security and Forensics**
-(https://img.shields.io/badge/-Bachelor's%20Degree-003DA5?&style=for-the-badge&logo=graduation-cap&logoColor=white)  
+### **🎓Bachelor's Degree in Computer Security and Forensics**  
 **Kabarak University**  
 *Graduated: 2024*
 
