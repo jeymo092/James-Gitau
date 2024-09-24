@@ -1,6 +1,7 @@
 # **Hello, I'm JAMES GITAU**  
-<a href="https://www.linkedin.com/in/james-gitau-gathoni/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/james-gitau-gathoni/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="https://tiktok.com/@your-tiktok-handle"><img src="https://img.shields.io/badge/-TikTok-FF0050?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+<a href="https://facebook.com/your-facebook-handle"><img src="https://img.shields.io/badge/-Facebook-1877F2?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 ## **About Me**
 
 Passionate Cybersecurity Enthusiast with expertise in Digital Forensics, Network Security, Cloud Computing (AWS, GCP & AZURE), Ethical Hacking & Penetration Testing, Malware Analysis, and Technical Writing. I'm committed to bridging the gap between technology and security for a safer online world. I also possess strong skills in Digital Marketing and SEO, allowing me to effectively promote cybersecurity solutions and educate the public on online safety.
