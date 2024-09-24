@@ -85,5 +85,5 @@ My passion for cybersecurity stems from my background in computer security and f
     <img src="https://img.shields.io/badge/-Network_and_Cloud_Security-3399FF?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Fundamentals-0066CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_Ethical_Hacker-0066CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-EC_Council_Ethical_Hacker-CC0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EC_Council_Ethical_Hacking_Essentials-CC0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 </div>
