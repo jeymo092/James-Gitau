@@ -1,7 +1,13 @@
+Here’s the updated README profile that includes your job experience, emphasizing your roles and internships in cybersecurity. 
+
+---
+
 # **Hello, I'm JAMES GITAU**  
-<a href="https://www.linkedin.com/in/james-gitau-gathoni/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/james-gitau-gathoni/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://tiktok.com/@your-tiktok-handle"><img src="https://img.shields.io/badge/-TikTok-FF0050?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
 <a href="https://facebook.com/your-facebook-handle"><img src="https://img.shields.io/badge/-Facebook-1877F2?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+
 ## **About Me**
 
 Passionate Cybersecurity Enthusiast with expertise in Digital Forensics, Network Security, Cloud Computing (AWS, GCP & AZURE), Ethical Hacking & Penetration Testing, Malware Analysis, and Technical Writing. I'm committed to bridging the gap between technology and security for a safer online world. I also possess strong skills in Digital Marketing and SEO, allowing me to effectively promote cybersecurity solutions and educate the public on online safety.
@@ -18,8 +24,22 @@ My passion for cybersecurity stems from my background in computer security and f
 | SIEM                                          | <a href="https://github.com/jeymo092/Security-Operation-Center-">Detection Lab</a> |
 | WEB PENETRATION TESTING                       | <a href="https://github.com/jeymo092/Web-Penetration-testing-">Web Penetration Testing</a> |
 | SQL INJECTION (SQLi)                          | <a href="#">SQL Injection Exploits</a> |
-| SERVER-SIDE REQUEST FORGERY (SSRF)            | <a href="#">SSRF Exploits</a> |
+| SERVER-SIDE REQUEST FORGERY (SSRF)           | <a href="#">SSRF Exploits</a> |
 | CYBER CRIME INVESTIGATION                     |                             |
+
+## **Job Experience**
+
+### **Penetration Tester Intern**
+**Hacktify Cyber Security**  
+*June 2024 - August 2024*  
+- Conducted penetration tests on web applications and networks to identify vulnerabilities.
+- Assisted in developing security assessment reports to improve client security posture.
+
+### **Junior Cyber Security Engineer (Part-time)**
+**WHTA Networks**  
+*August 2023 - March 2024*  
+- Supported incident response efforts and analyzed security incidents to enhance security measures.
+- Collaborated with teams to implement and monitor security controls across systems.
 
 ## **Tools**
 
@@ -67,8 +87,3 @@ My passion for cybersecurity stems from my background in computer security and f
     <img src="https://img.shields.io/badge/-Network_and_Cloud_Security-3399FF?&style=for-the-badge&logoColor=white" />
 </div>
 
----
-
-This version now includes Nessus, BurpSuite, Nikto, Nmap, and Metas
-
-ploit in the tools section, as well as the additional certifications and projects you requested. Let me know if any further changes are needed!
