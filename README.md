@@ -88,7 +88,3 @@ My passion for cybersecurity stems from my background in computer security and f
     <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity_(ISC2)-00C853?&style=for-the-badge&logo=ISC2&logoColor=white" />
     <img src="https://img.shields.io/badge/-Network_and_Cloud_Security-3399FF?&style=for-the-badge&logoColor=white" />
 </div>
-
----
-
-Feel free to modify any section or add more details as needed!
