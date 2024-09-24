@@ -1,9 +1,9 @@
 
 # **Hello, I'm JAMES GITAU**  
 <a href="https://www.linkedin.com/in/james-gitau-gathoni/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="https://tiktok.com/@your-tiktok-handle"><img src="https://img.shields.io/badge/-TikTok-FF0050?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
-<a href="https://facebook.com/your-facebook-handle"><img src="https://img.shields.io/badge/-Facebook-1877F2?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://x.com/Cybersleuth254"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="tiktok.com/@el3lit3t3ch"><img src="https://img.shields.io/badge/-TikTok-FF0050?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+<a href="https://www.facebook.com/jeymo.ke.7/"><img src="https://img.shields.io/badge/-Facebook-1877F2?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 
 ## **About Me**
 
