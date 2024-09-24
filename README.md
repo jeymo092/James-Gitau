@@ -1,7 +1,3 @@
-Here’s the updated README profile that includes your job experience, emphasizing your roles and internships in cybersecurity. 
-
----
-
 # **Hello, I'm JAMES GITAU**  
 <a href="https://www.linkedin.com/in/james-gitau-gathoni/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=X&logoColor=white" /></a>
@@ -40,6 +36,13 @@ My passion for cybersecurity stems from my background in computer security and f
 *August 2023 - March 2024*  
 - Supported incident response efforts and analyzed security incidents to enhance security measures.
 - Collaborated with teams to implement and monitor security controls across systems.
+
+## **Education**
+
+### **Bachelor's Degree in Computer Security and Forensics**
+(https://img.shields.io/badge/-Bachelor's%20Degree-003DA5?&style=for-the-badge&logo=graduation-cap&logoColor=white)  
+**Kabarak University**  
+*Graduated: 2024*
 
 ## **Tools**
 
@@ -87,3 +90,6 @@ My passion for cybersecurity stems from my background in computer security and f
     <img src="https://img.shields.io/badge/-Network_and_Cloud_Security-3399FF?&style=for-the-badge&logoColor=white" />
 </div>
 
+---
+
+Feel free to modify any section or add more details as needed!
