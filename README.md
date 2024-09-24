@@ -4,6 +4,7 @@
 <a href="https://x.com/Cybersleuth254"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="tiktok.com/@el3lit3t3ch"><img src="https://img.shields.io/badge/-TikTok-FF0050?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
 <a href="https://www.facebook.com/jeymo.ke.7/"><img src="https://img.shields.io/badge/-Facebook-1877F2?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://www.elitetechdefender.com/"><img src="https://img.shields.io/badge/-Website-000000?&style=for-the-badge&logo=website&logoColor=white" /></a>
 
 ## **About Me**
 
