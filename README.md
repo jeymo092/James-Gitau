@@ -35,6 +35,7 @@ My passion for cybersecurity stems from my background in computer security and f
 **WHTA Networks**  
 *August 2023 - March 2024*
 Nairobi County, Kenya · Remote
+
 -Provide technical support to end-users, diagnosing and resolving hardware and software issues in a timely manner. 
 
 -Training And Creating Awareness 
