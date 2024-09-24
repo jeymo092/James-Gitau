@@ -29,7 +29,9 @@ My passion for cybersecurity stems from my background in computer security and f
 ### **Penetration Tester Intern**
 **Hacktify Cyber Security**  
 *June 2024 - August 2024*  
-- Used Burp Suite, OWASP ZAP, and Nmap for vulnerability analysis. Conducted web penetration tests, identified vulnerabilities, and recommended remediation. Gained experience in SQL injection, XSS,CRSF,Open-Redirect and ethical hacking.
+- Used Burp Suite, OWASP ZAP, and Nmap for vulnerability analysis.
+- Conducted web penetration tests, identified vulnerabilities, and recommended remediation.
+- Gained experience in SQL injection, XSS,CRSF,Open-Redirect and ethical hacking.
 
 ### **Junior Cyber Security Engineer (Part-time)**
 **WHTA Networks**  
