@@ -18,7 +18,7 @@ My passion for cybersecurity stems from my background in computer security and f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web Application VAPT             | <a href="https://github.com/jeymo092/Active-Directory-Lab">Web App</a> |
+| Web Application VAPT             | <a href="https://github.com/jeymo092/Bughunting">Web App</a> |
 
 
 ## **Job Experience**
