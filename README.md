@@ -29,15 +29,21 @@ My passion for cybersecurity stems from my background in computer security and f
 ### **Penetration Tester Intern**
 **Hacktify Cyber Security**  
 *June 2024 - August 2024*  
-- Conducted penetration tests on web applications and networks to identify vulnerabilities.
-- Assisted in developing security assessment reports to improve client security posture.
+- Used Burp Suite, OWASP ZAP, and Nmap for vulnerability analysis. Conducted web penetration tests, identified vulnerabilities, and recommended remediation. Gained experience in SQL injection, XSS,CRSF,Open-Redirect and ethical hacking.
 
 ### **Junior Cyber Security Engineer (Part-time)**
 **WHTA Networks**  
-*August 2023 - March 2024*  
-- Supported incident response efforts and analyzed security incidents to enhance security measures.
-- Collaborated with teams to implement and monitor security controls across systems.
+*August 2023 - March 2024*
+Nairobi County, Kenya · Remote
+-Provide technical support to end-users, diagnosing and resolving hardware and software issues in a timely manner. 
 
+-Training And Creating Awareness 
+ 
+-Assist in the maintenance and monitoring of network infrastructure, including firewalls and intrusion detection systems. 
+
+-Conduct vulnerability scans and assist in patch management processes to enhance overall security.
+
+-Perform Penetration Testing on Client’s Networks & developing penetration testing reports and recommendations.
 ## **Education**
 
 ### **🎓Bachelor's Degree in Computer Security and Forensics**  
