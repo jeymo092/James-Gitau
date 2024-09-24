@@ -52,6 +52,16 @@ Nairobi County, Kenya · Remote
 **Kabarak University**  
 *Graduated: 2024*
 
+## **Certifications**
+<div>
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity_(ISC2)-00C853?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network_and_Cloud_Security-3399FF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Fundamentals-0066CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Ethical_Hacker-0066CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EC_Council_Ethical_Hacking_Essentials-CC0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+</div>
+
 ## **Tools**
 
 ### **Network**
@@ -86,12 +96,4 @@ Nairobi County, Kenya · Remote
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## **Certifications**
-<div>
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity_(ISC2)-00C853?&style=for-the-badge&logo=ISC2&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network_and_Cloud_Security-3399FF?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Fundamentals-0066CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Ethical_Hacker-0066CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-EC_Council_Ethical_Hacking_Essentials-CC0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-</div>
+
