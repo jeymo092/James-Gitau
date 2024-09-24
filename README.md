@@ -20,8 +20,8 @@ My passion for cybersecurity stems from my background in computer security and f
 | ACTIVE DIRECTORY PENETRATION TEST             | <a href="https://github.com/jeymo092/Active-Directory-Lab">Detection Lab</a> |
 | SIEM                                          | <a href="https://github.com/jeymo092/Security-Operation-Center-">Detection Lab</a> |
 | WEB PENETRATION TESTING                       | <a href="https://github.com/jeymo092/Web-Penetration-testing-">Web Penetration Testing</a> |
-| SQL INJECTION (SQLi)                          | <a href="#">SQL Injection Exploits</a> |
-| SERVER-SIDE REQUEST FORGERY (SSRF)           | <a href="#">SSRF Exploits</a> |
+| SQL INJECTION (SQLi)                          | <a href="#">WORKING ON IT</a> |
+| SERVER-SIDE REQUEST FORGERY (SSRF)           | <a href="#">WORKING ON IT</a> |
 | CYBER CRIME INVESTIGATION                     |                             |
 
 ## **Job Experience**
