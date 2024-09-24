@@ -9,7 +9,6 @@ As someone deeply passionate about cybersecurity and digital forensics, I, James
 
 My passion for cybersecurity stems from my background in computer security and forensics. Now, I'm eager to specialize in Penetration Testing and Ethical Hacking. I aim to use my expertise to identify vulnerabilities and enhance organizational security. Through proactive assessments and simulated attacks, I'll provide valuable insights to mitigate risks and fortify defenses against cyber threats, ensuring organizations can safeguard their digital assets with confidence.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ My passion for cybersecurity stems from my background in computer security and f
 | | |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -45,7 +43,6 @@ My passion for cybersecurity stems from my background in computer security and f
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
