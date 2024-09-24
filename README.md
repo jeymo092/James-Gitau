@@ -1,3 +1,4 @@
+
 # **Hello, I'm JAMES GITAU**  
 <a href="https://www.linkedin.com/in/james-gitau-gathoni/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=X&logoColor=white" /></a>
@@ -79,12 +80,10 @@ My passion for cybersecurity stems from my background in computer security and f
 
 ## **Certifications**
 <div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity_(ISC2)-00C853?&style=for-the-badge&logo=ISC2&logoColor=white" />
     <img src="https://img.shields.io/badge/-Network_and_Cloud_Security-3399FF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Fundamentals-0066CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Ethical_Hacker-0066CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EC_Council_Ethical_Hacker-CC0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 </div>
