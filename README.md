@@ -50,7 +50,3 @@ My passion for cybersecurity stems from my background in computer security and f
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
