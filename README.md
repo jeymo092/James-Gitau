@@ -18,9 +18,9 @@ My passion for cybersecurity stems from my background in computer security and f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ACTIVE DIRECTORY PENETRATION TEST             | <a href="https://github.com/jeymo092/Active-Directory-Lab">Detection Lab</a> |
-| SIEM                                          | <a href="https://github.com/jeymo092/Security-Operation-Center-">Detection Lab</a> |
-| WEB PENETRATION TESTING                       | <a href="https://github.com/jeymo092/Web-Penetration-testing-">Web Penetration Testing</a> |
+| Web Application VAPT             | <a href="https://github.com/jeymo092/Active-Directory-Lab">Detection Lab</a> |
+| SIEM                                          | |
+| WEB PENETRATION TESTING                       ||
 | CYBER CRIME INVESTIGATION                     |                             |
 
 ## **Job Experience**
