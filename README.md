@@ -18,7 +18,9 @@ My passion for cybersecurity stems from my background in computer security and f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Network Security             | <a href="https://github.com/jeymo092/Network-Scanning">Network Scanning</a> |
 | Web Application VAPT             | <a href="https://github.com/jeymo092/Bughunting">Web App</a> |
+
 
 
 ## **Job Experience**
